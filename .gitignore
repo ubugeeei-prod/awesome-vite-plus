@@ -1,0 +1,4 @@
+node_modules/
+.vite/
+.vite-cache/
+
