@@ -6,7 +6,7 @@ A list of popular GitHub projects using Vite+ (`vite-plus` / `vp`).
 
 - Public GitHub repository
 - Non-fork
-- At least 50 stars
+- At least 50 stars for the Projects list
 - Vite+ usage is backed by an immutable permalink
 - Evidence shows project, workspace, CI, example, template, or benchmark tooling; mentions, optional peer declarations, and integration fixtures alone do not qualify
 - Approximate star counts were checked from GitHub metadata on 2026-11-01 JST
@@ -504,6 +504,14 @@ A list of popular GitHub projects using Vite+ (`vite-plus` / `vp`).
 | [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)                                                                         |     ![50+ stars](https://img.shields.io/badge/stars-50%2B-blue) | [cloudflare/worker/vite.config.ts](https://github.com/eggplants/ghcr-badge/blob/6aa0f795ed35375267c27930d55bf1f45e7de808/cloudflare/worker/vite.config.ts#L1)                                                                                                                           | Generate ghcr.io (GitHub Container Registry) container's status badge; workspace tooling uses Vite+                                                                   |
 | [mizchi/chaosbringer](https://github.com/mizchi/chaosbringer)                                                                           |     ![50+ stars](https://img.shields.io/badge/stars-50%2B-blue) | [packages/chaosbringer/vite.config.ts](https://github.com/mizchi/chaosbringer/blob/e6ce38edafc16bc296bc9a0f7af30c4519d743a8/packages/chaosbringer/vite.config.ts#L1)                                                                                                                    | Chaos engineering for Playwright tests; workspace tooling uses Vite+                                                                                                  |
 | [sammccord/solid-pixi](https://github.com/sammccord/solid-pixi)                                                                         |     ![50+ stars](https://img.shields.io/badge/stars-50%2B-blue) | [vite.config.ts](https://github.com/sammccord/solid-pixi/blob/3ac54ea3267aa269ab678779cfa0359a1f2b7b20/vite.config.ts#L1)                                                                                                                                                               | PIXI applications with Solid primitives                                                                                                                               |
+
+## Tooling
+
+Community tools for using Vite+; the Projects list's star threshold does not apply here.
+
+| Tool                                                                  | Description                                                                                                                                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ryoppippi/nix-vite-plus](https://github.com/ryoppippi/nix-vite-plus) | Nix flake providing Vite+ CLI binaries as a package and overlay. See [flake.nix](https://github.com/ryoppippi/nix-vite-plus/blob/5f825cf351c6b55760de73dacf1ecc5baaf6e9b0/flake.nix). |
 
 ## Development
 
